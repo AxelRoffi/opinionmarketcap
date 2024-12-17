@@ -300,6 +300,38 @@ export const OpinionMarketLanding: React.FC = () => {
             </Card>
 
             {/* Additional cards here with proper typing */}
+            <Card>
+              <CardContent>
+                <h3 style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '16px' }}>
+                  Exponential Growth
+                </h3>
+                <p style={{ fontSize: '20px', color: '#666' }}>
+                  ~15% price increase per trade. After 100 trades, opinions can cost millions to change!
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardContent>
+                <h3 style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '16px' }}>
+                  Permanent Opinions
+                </h3>
+                <p style={{ fontSize: '20px', color: '#666' }}>
+                  Engrave unchangeable opinions for 100,000,000 USDC
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardContent>
+                <h3 style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '16px' }}>
+                  Create Opinion Market & Make a Passive Income 4EVER !!
+                </h3>
+                <p style={{ fontSize: '20px', color: '#666' }}>
+                  Phase 1, only admin adds opinion market. Phase 2 users can add opinion markets for a fee and earn 4% on each trade.
+                </p>
+              </CardContent>
+            </Card>
           </div>
         </div>
 
